@@ -10,6 +10,6 @@ Control Windows cursor with a generic usb joystick
 - Button 04: Toggle Mouse control  ON/OFF (useful if you want to use a real mouse, use this trigger to pause joystick control)
 - Button 05: Right Click
 
-Thanks for visiting, fell free to contribute :D
+Thanks for visiting, feel free to contribute :D
 
 Cheers!
